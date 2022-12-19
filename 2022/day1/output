@@ -1,0 +1,15 @@
+mmckenna@LPTP490:day1$ q
+KDB+ 4.0 2020.11.02 Copyright (C) 1993-2020 Kx Systems
+l64/ 8()core 38283MB mmckenna lptp490 127.0.1.1 EXPIRE 2024.03.01 firstderivatives.com INTERNAL #54916
+
+q)\l sol.q
+Total time taken and space used [1k runs]:
+631 157200
+
+Q: 1 - Test cases
+Test .1: 24000 - Pass
+Test .2: 45000 - Pass
+
+Q: 1
+A .1: 69206
+A .2: 197400
