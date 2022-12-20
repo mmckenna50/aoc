@@ -57,7 +57,7 @@ func2:{func1[f;(y,'" "),'f:(S3@y)@'x]}
 
 // Total time taken, first to prevent caching bias
 -1"Total time taken and space used [1k runs]: ";
-\ts do[1000;runall`:input]
+\ts:1000 runall`:input
 
 // Test case validations.
 -1"\nQ: 2 - Test cases";
