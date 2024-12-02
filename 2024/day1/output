@@ -1,0 +1,13 @@
+KDB+ 4.0 2020.11.02 Copyright (C) 1993-2020 Kx Systems
+l64/ 16()core 7844MB mmckenna desktop-lf8nh4o 127.0.1.1 EXPIRE 2025.07.13 lmcdermid@kx.com KXMS #88925
+
+Total time taken and space used [1k runs]:
+2518 81232
+
+day1 - Test cases
+Test .1: 11 - Pass
+Test .2: 31 - Pass
+
+Q: day1
+A .1: 1341714
+A .2: 27384707
