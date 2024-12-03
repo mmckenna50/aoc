@@ -26,3 +26,5 @@ sres:string res:runall[`:test];
 -1"\nQ: ",day;
 -1"A .1: ",string first res:runall[`:input];
 -1"A .2: ",string last[res];
+
+exit 0
