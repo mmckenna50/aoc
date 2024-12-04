@@ -2,12 +2,14 @@
 // Common evaluation and testing logic
 //
 
-
 //
 // Note: We assume `runall` returns a two-element list.
 //     [0]: result to first part.
 //     [1]: result to second part.
 //
+
+day:first -2#"/"vs first -3#value[runall] / Determines puzzle day based on dir
+
 
 //
 // Total time taken, first to prevent caching bias
@@ -15,7 +17,6 @@
 -1"Total time taken and space used [1k runs]: ";
 \ts:1000 runall`:input
 
-day:first -2#"/"vs first -3#value[runall] / Determins puzzle day based on dir
 
 //
 // Test case validations.
