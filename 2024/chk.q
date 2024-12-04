@@ -4,6 +4,12 @@
 
 
 //
+// Note: We assume `runall` returns a two-element list.
+//     [0]: result to first part.
+//     [1]: result to second part.
+//
+
+//
 // Total time taken, first to prevent caching bias
 //
 -1"Total time taken and space used [1k runs]: ";
